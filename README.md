@@ -67,4 +67,12 @@ Tools:-
 ```
 
 # AWS Lambda pricing:- 
-### Number of requests and the duration of the execution.
+## Number of requests and the duration of the execution.
+## The first one million requests per month are free, and after that, there is a cost per request
+
+## Regarding AWS Lambda pricing:-
+
+```
+1. AWS Lambda charges $0.20 per 1 million requests and $0.00001667 for every GB-second of compute time.
+2. In Indian rupees, this is approximately ₹0.15 per 1 million requests and ₹0.0013 for every GB-second of compute time.
+```
