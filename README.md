@@ -38,6 +38,8 @@ AWS RDS to store user information and game data.
 ```
 1. A single EC2 instance can range from $0.02 to $2 per hour
 2. In Indian rupees, A single EC2 instance can range from approximately ₹1.5 to ₹165 per hour.
+Example:-
+if an EC2 instance costs $0.0116 per hour, the equivalent cost in INR would be 0.0116 USD/hour x 79.36 INR/USD = 0.92 INR/hour.
 ```
 
 # Cost Optimization:-
